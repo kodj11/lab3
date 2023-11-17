@@ -1,0 +1,7 @@
+
+Moscow Russia 10000000 2000
+Syktyvkar Russia 1000000 200
+SPB Russia 8000000 1000
+Paris France 9000000 1100
+Lyon France 6000000 900
+Kirov Russia 2000000 200
